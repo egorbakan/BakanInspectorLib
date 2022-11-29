@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ИтоговоеЗадание3/1.0.0": {
+        "dependencies": {
+          "InspectorLib": "1.0.0"
+        },
+        "runtime": {
+          "ИтоговоеЗадание3.dll": {}
+        }
+      },
+      "InspectorLib/1.0.0": {
+        "runtime": {
+          "InspectorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ИтоговоеЗадание3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InspectorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

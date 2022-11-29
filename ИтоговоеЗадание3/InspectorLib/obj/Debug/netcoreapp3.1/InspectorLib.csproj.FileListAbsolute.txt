@@ -1,0 +1,10 @@
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.AssemblyInfo.cs
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.deps.json
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.csproj.AssemblyReference.cache

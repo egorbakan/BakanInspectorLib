@@ -1,0 +1,17 @@
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.AssemblyInfo.cs
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.csproj.AssemblyReference.cache
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\ИтоговоеЗадание3.exe
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\ИтоговоеЗадание3.deps.json
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\ИтоговоеЗадание3.runtimeconfig.json
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\ИтоговоеЗадание3.runtimeconfig.dev.json
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\ИтоговоеЗадание3.dll
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\ИтоговоеЗадание3.pdb
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\bin\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.csproj.CopyComplete
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.dll
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.pdb
+C:\Users\egorb\source\repos\ИтоговоеЗадание3\ИтоговоеЗадание3\obj\Debug\netcoreapp3.1\ИтоговоеЗадание3.genruntimeconfig.cache
